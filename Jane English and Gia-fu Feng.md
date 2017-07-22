@@ -1,3 +1,4 @@
+Lao Tsu's Tao Te Ching
 Copyright 1972 by Gia-fu Feng and Jane English  
 Transcribed from Vintage Books Edition, September 1972  
 
@@ -21,7 +22,7 @@ Whereas Confucianism is concerned with day-to-
 day rules of conduct, Taoism is concerned with a  
 more spiritual level of being.  
 
-# ONE  
+# 1  
 
 The Tao that can be told is not the eternal Tao.  
 The name that can be named is not the eternal name.  
@@ -34,7 +35,7 @@ These two spring from the same source but differ in name;
 Darkness within darkness.  
 The gate to all mystery.  
 
-# TWO  
+# 2  
 
 Under heaven all can see beauty as beauty only because there is ugliness.  
 All can know good as good only because there is evil.  
@@ -53,7 +54,7 @@ Working, yet not taking credit.
 Work is done, then forgotten.  
 Therefore it lasts forever.  
 
-# THREE  
+# 3  
 
 Not exalting the gifted prevents quarreling. 
 Not collecting treasures prevents stealing.  
