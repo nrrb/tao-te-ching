@@ -26,7 +26,6 @@ whose identity is mystery.
 Mystery of all mysteries!  
 The door to the hidden.  
 
--  
 UKLG: A satisfactory translation of this chapter is, I believe, perfectly impossible. It contains the book. I think of it as the Aleph, in Borges’s story: if you can see it rightly, it contains everything.  
 
 # 2 - SOUL FOOD  
@@ -64,7 +63,6 @@ to do the work and let it go.
 for just letting it go  
 is what makes it stay.  
 
--  
 UKLG: One of the things I read in this chapter is that values and beliefs are not only culturally constructed but also part of the interplay of yin and yang, the great reversals that maintain the living balance of the world. To believe that our beliefs are permanent truths which encompass reality is a sad arrogance. To let go of that belief is to find safety.  
 
 # 3 - HUSHING  
@@ -92,7 +90,6 @@ from doing anything.
 When you do not-doing,  
 nothing’s out of order.  
 
--  
 UKLG: Over and over Lao Tzu says wei wu wei: Do not do. Doing not-doing. To act without acting. Action by inaction. You do nothing yet it gets done... 
    It’s not a statement susceptible to logical interpretation, or even to a syntactical translation into English; but it’s a concept that transforms thought radically, that changes minds. The whole book is both an explanation and a demonstration of it.  
 
@@ -113,7 +110,6 @@ yes, and likely to endure.
 Whose child? born  
 before the gods.  
 
--  
 UKLG: Everything Lao Tzu says is elusive. The temptation is to grasp at something tangible in the endlessly deceptive simplicity of the words. Even some of his finest scholarly translators focus on positive ethical or political values in the text, as if those were what’s important in it. And of course the religion called Taoism is full of gods, saints, miracles, prayers, rules, methods for securing riches, power, longevity, and so forth -- all the stuff that Lao Tzu says leads us away from the way.  
     In passages such as this one, I think it is the profound modesty of the language that offers what so many people for so many centuries have found in this book: a pure apprehension of the mystery of which we are part.  
 
@@ -133,7 +129,6 @@ act as a bellows:
 Empty yet structured,  
 it moves, inexhaustibly giving.  
 
--  
 UKLG: The “inhumanity” of the wise soul doesn’t mean cruelty. Cruelty is a human characteristic. Heaven and earth -- that is, “Nature” and its Way -- are not humane, because they are not human. They are not kind; they are not cruel; those are human attributes. You can only be kind or cruel if you have, and cherish, a self. You can’t even be indifferent if you aren’t different. Altruism is the other side of egoism. Followers of the Way, like the forces of nature, act selflessly.  
 
 # 6 - WHAT IS COMPLETE  
@@ -190,7 +185,6 @@ and of action, timing.
 No competition,  
 so no blame.  
 
--  
 UKLG: A clear stream of water runs through this book, from poem to poem, wearing down the indestructible, finding the way around everything that obstructs the way. Good drinking water.  
 
 # 9 - BEING QUIET  
@@ -233,7 +227,6 @@ to act and not lay claim,
 to lead and not to rule:  
 this is mysterious power.  
 
--  
 UKLG: Most of the scholars think this chapter is about meditation, its techniques and fulfillments. The language is profoundly mystical, the images are charged, rich in implications.  
 
 # 11 - THE USES OF NOT  
@@ -256,7 +249,6 @@ there’s room for you.
 So the profit in what is  
 is in the use of what isn’t.  
 
--  
 UKLG: One of the things I love about Lao Tzu is he is so funny. He’s explaining a profound and difficult truth here, one of those counter-intuitive truths that, when the mind can accept them, suddenly double the size of the universe. He goes about it with this deadpan simplicity, talking about pots.  
 
 # 12 - NOT WANTING  
@@ -309,7 +301,6 @@ and people who treated the body politic
 as gently as their own body  
 would be worthy to govern the commonwealth.  
 
--  
 UKLG: Lao Tzu, a mystic, demystifies political power.  
     Autocracy and oligarchy foster the beliefs that power is gained magically and retained by sacrifice, and that powerful people are genuinely superior to the powerless.  
     Lao Tzu does not see political power as magic. He sees rightful power as earned and wrongful power as usurped. He does not see power as virtue, but as the result of virtue. The democracies are founded on that view. 
@@ -372,7 +363,6 @@ is not to need fulfillment.
 Unfulfilled, one may live on  
 needing no renewal.  
 
--  
 UKLG: In the first stanza we see the followers of the Way in ancient times or illo tempore, remote and inaccessible; but the second stanza brings them close and alive in a series of marvelous smiles. (I am particularly fond of the polite and quiet houseguests.) The images of the valley and of uncut or uncarved wood will recur again and again.  
 
 # 16 - RETURNING TO THE ROOT  
@@ -403,7 +393,6 @@ the way that endures forever.
 The body comes to its ending,  
 but there is nothing to fear.  
 
--  
 UKLG: To those who will not admit morality without a deity to validate it, or spirituality of which man is not the measure, the firmness of Lao Tzu’s morality and the sweetness of his spiritual counsel must seem incomprehensible, or illegitimate, or very troubling indeed.  
 
 # 17 - ACTING SIMPLY  
@@ -423,7 +412,6 @@ with no fuss or boasting,
 ordinary people say,  
 Oh, we did it.  
 
--  
 UKLG: This invisible leader, who gets things done in such a way that people think they did it all themselves, isn’t one who manipulates others from behind the scenes; just the opposite. Again, it’s a matter of “doing without doing”: uncompetitive, unworried, trustful accomplishment, power that is not force. An example or analogy might be a very good teacher, or the truest voice in a group of singers.  
 
 # 18 - SECOND BESTS  
@@ -455,7 +443,6 @@ want less.
 Forget the rules.  
 Be untroubled.  
 
--  
 UKLG: This chapter and the two before it may be read as a single movement of thought.  
     “Raw silk” and “uncut wood” are images traditionally associated with the characters su (simple, plain) and p’u (natural, honest).  
     
@@ -496,7 +483,6 @@ I’m the different one,
 for my food  
 is the milk of the mother.  
 
--  
 UKLG:  The difference between yes and no, good and bad, is something only the “bright” people, the people with the answers, can understand. A poor stupid Taoist can’t make it out.  
     This chapter is full of words like huang (wild, barren; famine), tun (ignorant; chaotic), hun (dull, turbid), men (sad, puzzled, mute), and hu (confused, obscured, vague). They configure chaos, confusion, a “bewilderness” in which the mind wanders without certainties, desolate, silent, awkward. But in that milky, dim strangeness lies the way. It can’t be found in the superficial order imposed by positive and negative opinions, the good/bad, yes/no moralizing that denies fear and ignores mystery.  
 
@@ -522,7 +508,6 @@ How do I know
 anything about the beginning?  
 By this.  
 
--  
 UKLG: Mysticism rises from and returns to the irreducible, unsayable reality of “this.” “This” is the Way. This is the way.  
 
 # 22 - GROWING DOWNWARD  
@@ -630,7 +615,6 @@ earth follows heaven,
 heaven follows the Way,  
 the Way follows what is.  
 
--  
 UKLG: I’d like to call the “something” of the first line a lump -- an unshaped, undifferentiated lump, chaos, before the Word, before Form, before Change. Inside it is time, space, everything; in the womb of the Way.  
     The last words of the chapter, tzu jan, I render as “what is.” I was tempted to say, “The Way follows itself,” because the Way is the way things are; but that would reduce the significance of the words. They remind us not to see the Way as a sovereignty or a domination, all creative, all yang. The Way itself is a follower. Though it is before everything, it follows what is.  
 
@@ -652,7 +636,6 @@ weigh less in the balance than his land?
 Lightness will lose him his foundation,  
 movement will lose him his mastery.  
 
--  
 UKLG: I take heaviness to be the root matters of daily life, the baggage we bodily beings have to carry, such as food, drink, shelter, safety. If you go charging too far ahead of the baggage wagon you may be cut off from it; if you treat your body as unimportant you risk insanity or inanity.  
     The first two lines would make a nice motto for the practice of T’ai Chi.  
 
@@ -677,7 +660,6 @@ or cherish a student
 may be clever, but has gone astray.  
 There’s a deep mystery here.  
 
--  
 UKLG: The hidden light and the deep mystery seem to be signals, saying “think about this” -- about care for what seems unimportant. In a teacher’s parental care for the insignificant student, and in a society’s respect for mothers, teachers, and other obscure people who educate, there is indeed illumination and a profoundly human mystery. Having replaced instinct with language, society, and culture, we are the only species that depends on teaching and learning. We aren’t human without them. In them is true power. But are they the occupations of the rich and mighty?  
 
 # 28 - TURNING BACK  
@@ -710,7 +692,6 @@ to make into leaders.
 Just so, a great carving  
 is done without cutting.  
 
--  
 UKLG: The simplicity of Lao Tzu’s language can present an almost impenetrable density of meaning. The reversals and paradoxes in this great poem are the oppositions of the yin and yang -- male/female, light/dark, glory/modesty -- but the “knowing and being” of them, the balancing act, results in neither stasis nor synthesis. The riverbed in which power runs leads back, the patterns of power lead back, the valley where power is contained leads back -- to the forever new, endless, straightforward way. Reversal, recurrence, are the movement, and yet the movement is onward.  
 
 # 29 - NOT DOING  
@@ -731,7 +712,6 @@ some are fulfilled, some fail.
 So the wise soul keeps away  
 from the extremes, excess, extravagance.  
 
--  
 UKLG: For Lao Tzu, “moderation in all things” isn’t just a bit of safe, practical advice. To lose the sense of the sacredness of the world is a mortal loss. To injure our world by excesses of greed and ingenuity is to endanger our own sacredness.  
 
 # 30 - NOT MAKING WAR  
@@ -756,7 +736,6 @@ Not the Way.
 What’s not the Way  
 soon ends.  
 
--  
 UKLG: This first direct statement of Lao Tzu’s pacifism is connected in thought to the previous poem and leads directly to the next.  
     The last verse is enigmatic: “Things flourish then perish” -- How can this supremely natural sequence not be the Way? I offer my understanding of it in the note on the page with chapter 55, where nearly the same phrase occurs.  
 
@@ -807,7 +786,6 @@ The Way in the world
 is as a stream to a valley,  
 a river to the sea.  
 
--  
 UKLG: The second verse connects to the uncut, the uncarved, the unusable, to the idea of the unnamed presented in the first chapter: “name’s the mother of the ten thousand things.” You have to make order, you have to make distinctions, but you also have to know when to stop before you’ve lost the whole in the multiplicity of parts. The simplicity or singleness of the Way is that of water, which always rejoins itself.  
 
 # 33 - KINDS OF POWER  
@@ -878,7 +856,6 @@ This is called the small dark light:
 the soft, the weak prevail  
 over the hard, the strong.  
 
--  
 UKLG: There is a third stanza in all the texts:  
 
 
@@ -904,7 +881,6 @@ is not wanting.
 In not wanting is stillness.  
 In stillness all under heaven rests.  
 
--  
 UKLG: Here the themes of not doing and not wanting, the unnamed and the unshapen, recur together in one pure legato. It is wonderful how by negatives and privatives Lao Tzu gives a sense of serene, inexhaustible fullness of being.  
 
 # 38 - TALKING ABOUT POWER  
@@ -941,7 +917,6 @@ abide in the kernel not the husk,
 in the fruit not the flower,  
 letting the one go, keeping the other.  
 
--  
 UKLG: A vast, dense argument in a minimum of words, this poem lays out the Taoist values in steeply descending order: the Way and its power; goodness (humane feeling); righteousness (morality); and -- a very distance last -- obedience (law and order). The word I render as “opinion” can be read as “knowing too soon”: the mind obeying orders, judging before the evidence is in, closed to fruitful perception and learning.  
 
 # 39 - INTEGRITY  
@@ -1037,7 +1012,6 @@ violence and aggression
 destroy themselves.  
 My teaching rests on that.  
 
--  
 UKLG: Beginning with a pocket cosmology, this chapter demonstrates the “interplay of energy” of yin and yang by showing how low and high, winning and losing, destruction and self-destruction, reverse themselves, each turning into its seeming opposite.  
 
 # 43 - WATER AND STONE  
@@ -1053,8 +1027,7 @@ the impenetrable.
 So I know the good in not doing.  
 
 The wordless teaching,  
-the profit in not doing --  
-not many people understand it.  
+the profit in not doing -not many people understand it.  
 
 # 44 - FAME AND FORTUNE  
 
@@ -1115,7 +1088,6 @@ doesn’t go, but knows;
 doesn’t look, but sees;  
 doesn’t do, but gets it done.  
 
--  
 UKLG: We tend to expect great things from “seeing the world” and “getting experience.” A Roman poet remarked that travelers change their sky but not their soul. Other poets, untraveled and inexperienced, Emily Bronte and Emily Dickinson, prove Lao Tzu’s point: it’s the inner eye that really sees the world.  
 
 # 48 - UNLEARNING  
@@ -1131,7 +1103,6 @@ don’t fuss with them.
 Nobody who fusses  
 is fit to run things.  
 
--  
 UKLG: The word shi in the second stanza, my “fuss,” is troublesome to the translators. Carus’s quite legitimate translation of it is “diplomacy,” which would give a stanza I like very much:  
 
     To run things,  
@@ -1157,7 +1128,6 @@ they mix their mind up with the world.
 Ordinary people look after them.  
 Wise souls are children.  
 
--  
 UKLG: The next to last line is usually read as saying that ordinary people watch and listen to wise people. But Lao Tzu has already told us that most of us wander on and off the Way and don’t know a sage from a sandpile. And surely the quiet Taoist is not a media pundit.  
     Similarly, the last line is taken to mean that the wise treat ordinary people like children. This is patronizing, and makes hash out of the first verse. I read it to mean that the truly wise are looked after (or looked upon) like children because they’re trusting, unprejudiced, and don’t hold themselves above or apart from ordinary life.  
 
@@ -1233,7 +1203,6 @@ Use the way’s light, return to its insight,
 and so keep from going too far.  
 That’s how to practice what’s forever.  
 
--  
 UKLG: This chapter on the themes of return and centering makes circles within itself and throughout the book returning to phrases from other poems, turning them round the center. A center which is everywhere, a circle whose circumference is infinite...  
 
 # 53 - INSIGHT  
@@ -1258,7 +1227,6 @@ shameless thieves.
 Surely their way  
 isn’t the way.  
 
--  
 UKLG: So much for capitalism.  
 
 # 54 - SOME RULES  
@@ -1283,7 +1251,6 @@ in the world I see what is under heaven.
 How do I know the world is so?  
 By this.  
 
--  
 UKLG: I follow Waley’s interpretation of this chapter. It is Tao that plants and keeps; the various kinds of power belong to Tao; and finally in myself I see the Tao of self, and so on.  
 
 # 55  - THE SIGN OF THE MYSTERIOUS  
@@ -1313,7 +1280,6 @@ The full-grown is on the edge of age.
 Not the Way.  
 What’s not the Way soon dies.  
 
--  
 UKLG: As a model for the Taoist, the baby is in many ways ideal: totally unaltruistic, not interested in politics, business, or the proprieties, weak, soft, and able to scream placidly for hours without wearing itself out (its parents are another matter). The baby’s unawareness of poisonous insects and carnivorous beasts means that such dangers simply do not exist for it. (Again, its parents are a different case.)  
     As a metaphor of the Tao, the baby embodies the eternal beginning, the ever-springing source. “We come, clouds of glory,” Wordsworth says; and Hopkins, “There lives the dearest freshness deep down things.” No Peter Pan-ish refusal to grow up is involved, no hunt for the fountain of youth. What is eternal is forever young, never grows old. But we are not eternal.  
     It is in this sense that I understand how the natural, inevitable cycle of youth, growth, mature vigor, age, and decay can be “not the Way.” The Way is more than the cycle of any individual life. We rise, flourish, fail. The Way never fails. We are waves. It is the sea.  
@@ -1364,7 +1330,6 @@ I love to be quiet, and the people themselves find justice.
 I don’t do business, and the people prosper on their own.  
 I don’t have wants, and the people themselves are uncut wood.  
 
--  
 UKLG: A strong political statement of the central idea of wu wei, not doing, inaction.  
 My “monstrous” is literally “new.” New is strange, and strange is uncanny. New is bad. Lao Tzu is deeply and firmly against changing things, particularly in the name of progress. He would make an Iowa farmer look flighty. I don’t think he is exactly anti-intellectual, but he considers most uses of the intellect to be pernicious, and all plans for improving things to be disastrous. Yet he’s not a pessimist. No pessimist would say that people are able to look after themselves, be just, and prosper on their own. No anarchist can be a pessimist.  
     Uncut wood -- here likened to the human soul -- the uncut, uncarved, unshaped, unpolished, native, natural stuff is better than anything that can be made of it. Anything done to it deforms and lessens it. Its potentiality is infinite. Its uses are trivial.  
@@ -1391,7 +1356,6 @@ square without sawing,
 true without forcing.  
 They are the light that does not shine.  
 
--  
 UKLG: In the first verse, the words “dull and confused” and “sharp and keen” are, as Waley points out, the words used in chapter 20 to describe the Taoist and the non-Taoists.  
     In the last verse most translators say the Taoist is square but doesn’t cut, shines but doesn’t dazzle. Waley says that this misses the point. The point is that Taoists gain their ends without the use of means. That is indeed a light that does not shine -- an idea that must be pondered and brooded over. A small dark light.  
 
@@ -1423,7 +1387,6 @@ nor will wise souls come to harm.
 And so, neither harming the other,  
 these powers will come together in unity.  
 
--  
 UKLG: Thomas Jefferson would have liked the first stanza.  
    “Troubled spirits” are kwei, ghosts, not bad in themselves but dangerous if they possess you. Waley reads the second stanza as a warning to believers in Realpolitik: a ruler “possessed” by power harms both the people and his own soul. Taking it as counsel to the individual, it might mean that wise souls neither indulge nor repress the troubled spirits that may haunt them; rather, they let those spiritual energies be part of the power they find along the way.  
 
@@ -1471,7 +1434,6 @@ Seek, you’ll find it.
 Hide, it will shelter you.  
 So it was honored under heaven.  
 
--  
 UKLG: I think the line of thought throughout the poe has to do with true reward as opposed to dishonorable gain, true giving as opposed to fake goods.  
 
 # 63 - CONSIDER BEGINNINGS  
@@ -1500,7 +1462,6 @@ the wise soul,
 by treating the easy as hard,  
 doesn’t find anything hard.  
 
--  
 UKLG: Waley says that this charmingly complex chapter plays with two proverbs. “Requite injuries with good deeds” is the first. The word te, here meaning goodness or good deeds, is the same word Lao Tzu uses for the Power of the Way. (“Power is goodness,” he says in chapter 49.) So, having neatly annexed the Golden Rule, he goes on to the proverb about “taking things too lightly” and plays paradox with it.  
 
 # 64 - MINDFUL OF LITTLE THINGS  
@@ -1563,7 +1524,6 @@ It reaches far.
 It follows things back,  
 clear back to the great oneness.  
 
--  
 UKLG: Where shall we find a ruler wise enough to know what to teach and what to withhold? “Once upon a time,” maybe, in the days of myth and legend, as a pattern, a model, an ideal?  
     The knowledge and the ignorance or unknowing Lao Tzu speaks of may or may not refer to what we think of as education. In the last stanza, by power he evidently does not mean political power at all, but something vastly different, a unity with the power of the Tao itself.  
     This is a mystical statement about government -- and in our minds those two realms are worlds apart. I cannot make the leap between them. I can only ponder it  
@@ -1589,7 +1549,6 @@ one who, not competing,
 has in all the world  
 no competitor.  
 
--  
 UKLG: One of the things I love in Lao Tzu is his good cheer, as in this poem, which while giving good counsel is itself a praise and enjoyment of the spirit of yin, the water-soul that yields, follows, eludes, and leads on, dancing in the hundred valleys.  
 
 # 67 - THREE TREASURES  
@@ -1622,7 +1581,6 @@ and holds the fort;
 it is the bulwark set  
 around those heaven helps.  
 
--  
 UKLG: The first two verses of this chapter are a joy to me.  
     The three final verses are closely connected in thought to the next two chapters, which may be read as a single meditation on mercy, moderation, and modesty, on the use of strength, on victory and defeat.  
 
@@ -1656,7 +1614,6 @@ So, when matched armies meet,
 the one who comes to grief  
 is the true victor.  
 
--  
 UKLG: A piece of sound tactical advice (practiced by the martial arts, such as Aikido, and by underground resistance and guerilla forces), which leads to a profound moral warning. The prize thrown away by the aggressor is compassion. The yielder, the griever, the mourner, keeps that prize. The game is loser takes all.  
 
 # 70 - BEING OBSCURE  
