@@ -1,25 +1,25 @@
-Copyright 1972 by Gia-fu Feng and Jane English
-Transcribed from Vintage Books Edition, September 1972
+Copyright 1972 by Gia-fu Feng and Jane English  
+Transcribed from Vintage Books Edition, September 1972  
 
 # Lao Tsu and Taoism
 
-Lao Tsu, an older contemporary of Confucius, was 
-keeper of the imperial archives at Loyang in the 
-province of Honan in the sixth century B.C. All his 
-life he taught that "The Tao that can be told is not
-the eternal Tao"; but, according to ancient legend,
-as he was riding off into the desert to die - sick at
-heart at the ways of men - he was persuaded by a 
-gatekeeper in northwestern China to write down his
-teaching for posterity.
-   The essence of Taoism is contained in the eighty-
-one chapters of the book - roughly 5,000 words -
-which have for 2,500 years provided one of the 
-major underlying influences in Chinese thought
-and culture, emerging also in proverbs and folklore.
-Whereas Confucianism is concerned with day-to-
-day rules of conduct, Taoism is concerned with a
-more spiritual level of being.
+Lao Tsu, an older contemporary of Confucius, was  
+keeper of the imperial archives at Loyang in the  
+province of Honan in the sixth century B.C. All his  
+life he taught that "The Tao that can be told is not  
+the eternal Tao"; but, according to ancient legend,  
+as he was riding off into the desert to die - sick at  
+heart at the ways of men - he was persuaded by a  
+gatekeeper in northwestern China to write down his  
+teaching for posterity.  
+   The essence of Taoism is contained in the eighty-  
+one chapters of the book - roughly 5,000 words -  
+which have for 2,500 years provided one of the  
+major underlying influences in Chinese thought  
+and culture, emerging also in proverbs and folklore.  
+Whereas Confucianism is concerned with day-to-  
+day rules of conduct, Taoism is concerned with a  
+more spiritual level of being.  
 
 # ONE
 
