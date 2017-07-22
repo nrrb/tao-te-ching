@@ -1,4 +1,4 @@
-Lao Tsu's Tao Te Ching
+Lao Tsu's Tao Te Ching  
 Copyright 1972 by Gia-fu Feng and Jane English  
 Transcribed from Vintage Books Edition, September 1972  
 
