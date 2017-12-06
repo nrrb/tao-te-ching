@@ -1260,7 +1260,7 @@ UKLG: This chapter on the themes of return and centering makes circles within it
 # 53
 ## INSIGHT  
 
-IF my mind’s modest,  
+If my mind’s modest,  
 I walk the great way.  
 Arrogance  
 is all I fear.  
