@@ -1702,3 +1702,242 @@ In my obscurity
 is my value.  
 That’s why the wise  
 wear their jade under common clothes.  
+
+# 71
+## THE SICK MIND
+
+To know without knowing is best.
+Not knowing without knowing it is sick.
+
+To be sick of sickness
+is the only cure.
+
+The wise aren’t sick.
+They’re sick of sickness,
+so they’re well.
+
+UKLG: What you know without knowing you know it is the right kind of knowledge. Any other kind (conviction, theory, dogmatic belief, opinion) isn’t the right kind, and if you don’t know that, you’ll lose the Way. This chapter is an example of exactly what Lao Tzu was talking about in the last one -- obscure clarity, well-concealed jade.
+
+# 72
+## THE RIGHT FEAR
+
+When we don’t fear what we should fear
+we are in fearful danger.
+We ought not to live in narrow houses,
+we ought not to do stupid work.
+
+If we don’t accept stupidity
+we won’t act stupidly.
+So, wise souls know but don’t show themselves,
+look after but don’t prize themselves,
+letting the one go, keeping the other.
+
+# 73
+## DARING TO DO
+
+Brave daring leads to death.
+Brave caution leads to life.
+The choice can be the right one
+or the wrong one.
+
+Who will interpret
+the judgment of heaven?
+Even the wise soul
+finds it hard.
+
+The way of heaven
+doesn’t compete
+yet wins handily,
+doesn’t speak
+yet answers fully,
+doesn’t summon
+yet attracts.
+It acts
+perfectly easily.
+
+The net of heaven
+is vast, vast,
+wide-meshed,
+yet missing nothing.
+
+# 74
+## THE LORD OF SLAUGHTER
+
+When normal, decent people don’t fear death,
+how can you use death to frighten them?
+Even when they have a normal fear of death,
+who of us dare take and kill the one who doesn’t?
+When people are normal and decent and death-fearing,
+there’s always an executioner.
+To take the place of that executioner
+is to take the place of the great carpenter.
+People who cut the great carpenter’s wood
+seldom get off with their hands unhurt.
+
+UKLG: To Lao Tzu, not to fear dying and not to fear killing are equally unnatural and antisocial. Who are we to forestall the judgment of heaven or nature,
+to usurp the role of “the executioner”? “The Lord of Slaughter” is Waley’s grand translation.
+
+# 75
+## GREED
+
+People are starving.
+The rich gobble taxes,
+that’s why people are starving.
+
+People rebel.
+The rich oppress them,
+that’s why people rebel.
+
+People hold life cheap.
+The rich make it too costly,
+that’s why people hold it cheap.
+
+But those who don’t live for the sake of living
+are worth more than the wealth-seekers.
+
+UKLG: How many hundreds of years ago was this book written? And yet still this chapter must be written in the present tense.
+
+# 76
+## HARDNESS
+
+Living people
+are soft and tender.
+Corpses are hard and stiff.
+The ten thousand things,
+the living grass, the trees,
+are soft, pliant.
+Dead, they’re dry and brittle.
+
+So hardness and stiffness
+go with death;
+tenderness, softness,
+go with life.
+
+And the hard sword fails,
+the stiff tree’s felled.
+The hard and great go under.
+The soft and weak stay up.
+
+UKLG: In an age when hardness is supposed to be the essence of strength, and even the beauty of women is reduced nearly to the bone, I welcome this reminder that tanks and tombstones are not very adequate role models, and that to be alive is to be vulnerable.
+
+# 77
+## THE BOW
+
+The Way of heaven
+is like a bow bent to shoot:
+its top end brought down,
+its lower end raised up.
+It brings the high down,
+lifts the low,
+takes from those who have,
+gives to those who have not.
+
+Such is the Way of heaven,
+taking from people who have,
+giving to people who have not.
+Not so the human way:
+it takes from those who have not
+to fill up those who have.
+Who has enough to fill up everybody?
+Only those who have the Way.
+
+So the wise
+do without claiming,
+achieve without asserting,
+wishing not to show their worth.
+
+# 78
+## PARADOXES
+
+Nothing in the world
+is as soft, as weak, as water;
+nothing else can wear away
+the hard, the strong,
+and remain unaltered.
+Soft overcomes hard,
+weak overcomes strong.
+Everybody knows it,
+nobody uses the knowledge.
+
+So the wise say:
+By bearing common defilements
+you become a sacrificer at the altar of earth;
+by bearing common evils
+you become a lord of the world.
+
+Right words sound wrong.
+
+# 79
+## KEEPING THE CONTRACT
+
+After a great enmity is settled
+some enmity always remains.
+How to make peace?
+Wise souls keep their part of the contract
+and don’t make demands on others.
+People whose power is real fulfill their obligations;
+people whose power is hollow insist on their claims.
+
+The Way of heaven plays no favorites.
+It stays with the good.
+
+UKLG: This chapter is equally relevant to private relationships and to political treaties. Its realistic morality is based on a mystical perception of the fullness of the Way.
+
+# 80
+## FREEDOM
+
+Let there be a little country without many people.
+Let them have tools that do the work of ten or a hundred,
+and never use them.
+Let them be mindful of death
+and disinclined to long journeys.
+They’d have ships and carriages,
+but no place to go.
+They’d have armor and weapons,
+but no parades.
+Instead of writing,
+they might go back to using knotted cords.
+They’d enjoy eating,
+take pleasure in clothes,
+be happy with their houses,
+devoted to their customs.
+
+The next little country might be so close
+the people could hear cocks crowing
+and dogs barking there,
+but they’d get old and die
+without ever having been there.
+
+UKLG: Waley says this endearing and enduring vision “can be understood in the past, present, or future tense, as the reader desires.” This is always true of the vision of the golden age, the humane society.
+   Christian or Cartesian dualism, the division of spirit or mind from the material body and world, existed long before Christianity or Descartes and was never limited to Western thought (though it is the “craziness” or “sickness” that many people under Western domination see in Western civilization). Lao Tzu thinks the materialistic dualist, who tries to ignore the body and live in the head, and the religious dualist, who despises the body and lives for a reward in heaven, are both dangerous and in danger. So, enjoy your life, he says; live in your body, you are your body; where else is there to go? Heaven and earth are one. As you walk the streets of your town you walk on the Way of heaven.
+
+# 81
+## TELLING IT TRUE
+
+True words aren’t charming,
+charming words aren’t true.
+Good people aren’t contentious,
+contentious people aren’t good.
+People who know aren’t learned,
+learned people don’t know.
+
+Wise souls don’t hoard;
+the more they do for others the more they have,
+the more they give the richer they are.
+The Way of heaven profits without destroying.
+Doing without outdoing
+is the Way of the wise.
+
+# NOTES
+
+## Concerning This Version
+
+This is a rendition, not a translation. I do not know any Chinese. I could approach the text at all only because Paul Carus, in his 1898 translation of the Tao Te Ching, printed the Chinese text with each character followed by a transliteration and a translation. My gratitude to him is unending.
+
+## Sources
+
+## Notes on Some Choices of Wording
+
+## The Two Texts of the Tao Te Ching
+
+## Notes on the Chapters
