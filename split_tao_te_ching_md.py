@@ -11,7 +11,7 @@ chapter_matches = re.findall(chapter_pattern, tao_te_ching_md_raw)
 foldername = lambda num, name: '{0}_{1}'.format(num, name.lower().replace(' ', '_'))
 linkname = lambda num, name: '{0} - {1}'.format(num, name)
 summary_line = lambda num, name: '* [{0}]({1}/README.md)'.format(linkname(num, name), foldername(num, name))
-with open('SUMMARY.md', 'w') as f:
+with open('SUMMARY_new.md', 'w') as f:
     f.write('# SUMMARY\n')
     for match in chapter_matches:
         f.write(summary_line(match[0], match[1]) + '\n')
