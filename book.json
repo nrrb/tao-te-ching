@@ -8,7 +8,8 @@
         "richquotes@0.0.9",
         "github@2.0.0",
         "codeblock-label",
-        "sectionx"
+        "sectionx",
+        "-sharing"
     ],
     "pluginsConfig": {
         "richquotes": {
