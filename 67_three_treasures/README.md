@@ -31,6 +31,6 @@ it is the bulwark set
 around those heaven helps.  
 
 
-UKLG: The first two verses of this chapter are a joy to me.  
+> **Note** UKLG: The first two verses of this chapter are a joy to me.  
     The three final verses are closely connected in thought to the next two chapters, which may be read as a single meditation on mercy, moderation, and modesty, on the use of strength, on victory and defeat.  
 

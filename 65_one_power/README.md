@@ -25,7 +25,7 @@ It follows things back,
 clear back to the great oneness.  
 
 
-UKLG: Where shall we find a ruler wise enough to know what to teach and what to withhold? “Once upon a time,” maybe, in the days of myth and legend, as a pattern, a model, an ideal?  
+> **Note** UKLG: Where shall we find a ruler wise enough to know what to teach and what to withhold? “Once upon a time,” maybe, in the days of myth and legend, as a pattern, a model, an ideal?  
     The knowledge and the ignorance or unknowing Lao Tzu speaks of may or may not refer to what we think of as education. In the last stanza, by power he evidently does not mean political power at all, but something vastly different, a unity with the power of the Tao itself.  
     This is a mystical statement about government -- and in our minds those two realms are worlds apart. I cannot make the leap between them. I can only ponder it  
 

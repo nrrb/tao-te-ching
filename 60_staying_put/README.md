@@ -14,6 +14,6 @@ And so, neither harming the other,
 these powers will come together in unity.  
 
 
-UKLG: Thomas Jefferson would have liked the first stanza.  
+> **Note** UKLG: Thomas Jefferson would have liked the first stanza.  
    “Troubled spirits” are kwei, ghosts, not bad in themselves but dangerous if they possess you. Waley reads the second stanza as a warning to believers in Realpolitik: a ruler “possessed” by power harms both the people and his own soul. Taking it as counsel to the individual, it might mean that wise souls neither indulge nor repress the troubled spirits that may haunt them; rather, they let those spiritual energies be part of the power they find along the way.  
 

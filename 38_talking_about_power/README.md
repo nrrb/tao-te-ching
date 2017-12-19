@@ -35,5 +35,5 @@ in the fruit not the flower,
 letting the one go, keeping the other.  
 
 
-UKLG: A vast, dense argument in a minimum of words, this poem lays out the Taoist values in steeply descending order: the Way and its power; goodness (humane feeling); righteousness (morality); and -- a very distance last -- obedience (law and order). The word I render as “opinion” can be read as “knowing too soon”: the mind obeying orders, judging before the evidence is in, closed to fruitful perception and learning.  
+> **Note** UKLG: A vast, dense argument in a minimum of words, this poem lays out the Taoist values in steeply descending order: the Way and its power; goodness (humane feeling); righteousness (morality); and -- a very distance last -- obedience (law and order). The word I render as “opinion” can be read as “knowing too soon”: the mind obeying orders, judging before the evidence is in, closed to fruitful perception and learning.  
 

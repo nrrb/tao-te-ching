@@ -15,5 +15,5 @@ doesn’t look, but sees;
 doesn’t do, but gets it done.  
 
 
-UKLG: We tend to expect great things from “seeing the world” and “getting experience.” A Roman poet remarked that travelers change their sky but not their soul. Other poets, untraveled and inexperienced, Emily Bronte and Emily Dickinson, prove Lao Tzu’s point: it’s the inner eye that really sees the world.  
+> **Note** UKLG: We tend to expect great things from “seeing the world” and “getting experience.” A Roman poet remarked that travelers change their sky but not their soul. Other poets, untraveled and inexperienced, Emily Bronte and Emily Dickinson, prove Lao Tzu’s point: it’s the inner eye that really sees the world.  
 

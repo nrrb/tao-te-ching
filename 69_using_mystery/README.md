@@ -20,5 +20,5 @@ the one who comes to grief
 is the true victor.  
 
 
-UKLG: A piece of sound tactical advice (practiced by the martial arts, such as Aikido, and by underground resistance and guerilla forces), which leads to a profound moral warning. The prize thrown away by the aggressor is compassion. The yielder, the griever, the mourner, keeps that prize. The game is loser takes all.  
+> **Note** UKLG: A piece of sound tactical advice (practiced by the martial arts, such as Aikido, and by underground resistance and guerilla forces), which leads to a profound moral warning. The prize thrown away by the aggressor is compassion. The yielder, the griever, the mourner, keeps that prize. The game is loser takes all.  
 

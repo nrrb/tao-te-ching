@@ -14,5 +14,5 @@ The Way of heaven plays no favorites.
 It stays with the good.
 
 
-UKLG: This chapter is equally relevant to private relationships and to political treaties. Its realistic morality is based on a mystical perception of the fullness of the Way.
+> **Note** UKLG: This chapter is equally relevant to private relationships and to political treaties. Its realistic morality is based on a mystical perception of the fullness of the Way.
 

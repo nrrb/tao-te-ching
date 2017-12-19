@@ -26,5 +26,5 @@ to lead and not to rule:
 this is mysterious power.  
 
 
-UKLG: Most of the scholars think this chapter is about meditation, its techniques and fulfillments. The language is profoundly mystical, the images are charged, rich in implications.  
+> **Note** UKLG: Most of the scholars think this chapter is about meditation, its techniques and fulfillments. The language is profoundly mystical, the images are charged, rich in implications.  
 

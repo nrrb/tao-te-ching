@@ -21,5 +21,5 @@ The hard and great go under.
 The soft and weak stay up.
 
 
-UKLG: In an age when hardness is supposed to be the essence of strength, and even the beauty of women is reduced nearly to the bone, I welcome this reminder that tanks and tombstones are not very adequate role models, and that to be alive is to be vulnerable.
+> **Note** UKLG: In an age when hardness is supposed to be the essence of strength, and even the beauty of women is reduced nearly to the bone, I welcome this reminder that tanks and tombstones are not very adequate role models, and that to be alive is to be vulnerable.
 

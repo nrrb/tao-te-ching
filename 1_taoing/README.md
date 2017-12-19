@@ -24,5 +24,5 @@ Mystery of all mysteries!
 The door to the hidden.  
 
 
-UKLG: A satisfactory translation of this chapter is, I believe, perfectly impossible. It contains the book. I think of it as the Aleph, in Borges’s story: if you can see it rightly, it contains everything.  
+> **Note** UKLG: A satisfactory translation of this chapter is, I believe, perfectly impossible. It contains the book. I think of it as the Aleph, in Borges’s story: if you can see it rightly, it contains everything.  
 

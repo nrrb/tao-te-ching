@@ -23,5 +23,5 @@ anything about the beginning?
 By this.  
 
 
-UKLG: Mysticism rises from and returns to the irreducible, unsayable reality of “this.” “This” is the Way. This is the way.  
+> **Note** UKLG: Mysticism rises from and returns to the irreducible, unsayable reality of “this.” “This” is the Way. This is the way.  
 

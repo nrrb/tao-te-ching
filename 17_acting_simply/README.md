@@ -18,5 +18,5 @@ ordinary people say,
 Oh, we did it.  
 
 
-UKLG: This invisible leader, who gets things done in such a way that people think they did it all themselves, isn’t one who manipulates others from behind the scenes; just the opposite. Again, it’s a matter of “doing without doing”: uncompetitive, unworried, trustful accomplishment, power that is not force. An example or analogy might be a very good teacher, or the truest voice in a group of singers.  
+> **Note** UKLG: This invisible leader, who gets things done in such a way that people think they did it all themselves, isn’t one who manipulates others from behind the scenes; just the opposite. Again, it’s a matter of “doing without doing”: uncompetitive, unworried, trustful accomplishment, power that is not force. An example or analogy might be a very good teacher, or the truest voice in a group of singers.  
 

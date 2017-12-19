@@ -26,6 +26,6 @@ When you do not-doing,
 nothing’s out of order.  
 
 
-UKLG: Over and over Lao Tzu says wei wu wei: Do not do. Doing not-doing. To act without acting. Action by inaction. You do nothing yet it gets done... 
+> **Note** UKLG: Over and over Lao Tzu says wei wu wei: Do not do. Doing not-doing. To act without acting. Action by inaction. You do nothing yet it gets done... 
    It’s not a statement susceptible to logical interpretation, or even to a syntactical translation into English; but it’s a concept that transforms thought radically, that changes minds. The whole book is both an explanation and a demonstration of it.  
 

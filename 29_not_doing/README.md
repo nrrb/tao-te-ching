@@ -19,5 +19,5 @@ So the wise soul keeps away
 from the extremes, excess, extravagance.  
 
 
-UKLG: For Lao Tzu, “moderation in all things” isn’t just a bit of safe, practical advice. To lose the sense of the sacredness of the world is a mortal loss. To injure our world by excesses of greed and ingenuity is to endanger our own sacredness.  
+> **Note** UKLG: For Lao Tzu, “moderation in all things” isn’t just a bit of safe, practical advice. To lose the sense of the sacredness of the world is a mortal loss. To injure our world by excesses of greed and ingenuity is to endanger our own sacredness.  
 

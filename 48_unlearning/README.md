@@ -14,7 +14,7 @@ Nobody who fusses
 is fit to run things.  
 
 
-UKLG: The word shi in the second stanza, my “fuss,” is troublesome to the translators. Carus’s quite legitimate translation of it is “diplomacy,” which would give a stanza I like very much:  
+> **Note** UKLG: The word shi in the second stanza, my “fuss,” is troublesome to the translators. Carus’s quite legitimate translation of it is “diplomacy,” which would give a stanza I like very much:  
 
 
     To run things,  

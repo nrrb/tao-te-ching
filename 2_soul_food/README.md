@@ -36,5 +36,5 @@ for just letting it go
 is what makes it stay.  
 
 
-UKLG: One of the things I read in this chapter is that values and beliefs are not only culturally constructed but also part of the interplay of yin and yang, the great reversals that maintain the living balance of the world. To believe that our beliefs are permanent truths which encompass reality is a sad arrogance. To let go of that belief is to find safety.  
+> **Note** UKLG: One of the things I read in this chapter is that values and beliefs are not only culturally constructed but also part of the interplay of yin and yang, the great reversals that maintain the living balance of the world. To believe that our beliefs are permanent truths which encompass reality is a sad arrogance. To let go of that belief is to find safety.  
 

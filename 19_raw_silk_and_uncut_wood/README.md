@@ -19,6 +19,6 @@ Forget the rules.
 Be untroubled.  
 
 
-UKLG: This chapter and the two before it may be read as a single movement of thought.  
+> **Note** UKLG: This chapter and the two before it may be read as a single movement of thought.  
     “Raw silk” and “uncut wood” are images traditionally associated with the characters su (simple, plain) and p’u (natural, honest).  
     

@@ -22,5 +22,5 @@ has in all the world
 no competitor.  
 
 
-UKLG: One of the things I love in Lao Tzu is his good cheer, as in this poem, which while giving good counsel is itself a praise and enjoyment of the spirit of yin, the water-soul that yields, follows, eludes, and leads on, dancing in the hundred valleys.  
+> **Note** UKLG: One of the things I love in Lao Tzu is his good cheer, as in this poem, which while giving good counsel is itself a praise and enjoyment of the spirit of yin, the water-soul that yields, follows, eludes, and leads on, dancing in the hundred valleys.  
 

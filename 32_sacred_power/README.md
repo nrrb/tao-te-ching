@@ -25,5 +25,5 @@ is as a stream to a valley,
 a river to the sea.  
 
 
-UKLG: The second verse connects to the uncut, the uncarved, the unusable, to the idea of the unnamed presented in the first chapter: “name’s the mother of the ten thousand things.” You have to make order, you have to make distinctions, but you also have to know when to stop before you’ve lost the whole in the multiplicity of parts. The simplicity or singleness of the Way is that of water, which always rejoins itself.  
+> **Note** UKLG: The second verse connects to the uncut, the uncarved, the unusable, to the idea of the unnamed presented in the first chapter: “name’s the mother of the ten thousand things.” You have to make order, you have to make distinctions, but you also have to know when to stop before you’ve lost the whole in the multiplicity of parts. The simplicity or singleness of the Way is that of water, which always rejoins itself.  
 

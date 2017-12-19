@@ -21,5 +21,5 @@ So the profit in what is
 is in the use of what isn’t.  
 
 
-UKLG: One of the things I love about Lao Tzu is he is so funny. He’s explaining a profound and difficult truth here, one of those counter-intuitive truths that, when the mind can accept them, suddenly double the size of the universe. He goes about it with this deadpan simplicity, talking about pots.  
+> **Note** UKLG: One of the things I love about Lao Tzu is he is so funny. He’s explaining a profound and difficult truth here, one of those counter-intuitive truths that, when the mind can accept them, suddenly double the size of the universe. He goes about it with this deadpan simplicity, talking about pots.  
 

@@ -26,5 +26,5 @@ No competition,
 so no blame.  
 
 
-UKLG: A clear stream of water runs through this book, from poem to poem, wearing down the indestructible, finding the way around everything that obstructs the way. Good drinking water.  
+> **Note** UKLG: A clear stream of water runs through this book, from poem to poem, wearing down the indestructible, finding the way around everything that obstructs the way. Good drinking water.  
 

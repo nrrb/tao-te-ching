@@ -18,5 +18,5 @@ But those who don’t live for the sake of living
 are worth more than the wealth-seekers.
 
 
-UKLG: How many hundreds of years ago was this book written? And yet still this chapter must be written in the present tense.
+> **Note** UKLG: How many hundreds of years ago was this book written? And yet still this chapter must be written in the present tense.
 

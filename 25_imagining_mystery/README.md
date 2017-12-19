@@ -35,6 +35,6 @@ heaven follows the Way,
 the Way follows what is.  
 
 
-UKLG: I’d like to call the “something” of the first line a lump -- an unshaped, undifferentiated lump, chaos, before the Word, before Form, before Change. Inside it is time, space, everything; in the womb of the Way.  
+> **Note** UKLG: I’d like to call the “something” of the first line a lump -- an unshaped, undifferentiated lump, chaos, before the Word, before Form, before Change. Inside it is time, space, everything; in the womb of the Way.  
     The last words of the chapter, tzu jan, I render as “what is.” I was tempted to say, “The Way follows itself,” because the Way is the way things are; but that would reduce the significance of the words. They remind us not to see the Way as a sovereignty or a domination, all creative, all yang. The Way itself is a follower. Though it is before everything, it follows what is.  
 

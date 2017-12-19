@@ -17,5 +17,5 @@ Empty yet structured,
 it moves, inexhaustibly giving.  
 
 
-UKLG: The “inhumanity” of the wise soul doesn’t mean cruelty. Cruelty is a human characteristic. Heaven and earth -- that is, “Nature” and its Way -- are not humane, because they are not human. They are not kind; they are not cruel; those are human attributes. You can only be kind or cruel if you have, and cherish, a self. You can’t even be indifferent if you aren’t different. Altruism is the other side of egoism. Followers of the Way, like the forces of nature, act selflessly.  
+> **Note** UKLG: The “inhumanity” of the wise soul doesn’t mean cruelty. Cruelty is a human characteristic. Heaven and earth -- that is, “Nature” and its Way -- are not humane, because they are not human. They are not kind; they are not cruel; those are human attributes. You can only be kind or cruel if you have, and cherish, a self. You can’t even be indifferent if you aren’t different. Altruism is the other side of egoism. Followers of the Way, like the forces of nature, act selflessly.  
 

@@ -31,5 +31,5 @@ Just so, a great carving
 is done without cutting.  
 
 
-UKLG: The simplicity of Lao Tzu’s language can present an almost impenetrable density of meaning. The reversals and paradoxes in this great poem are the oppositions of the yin and yang -- male/female, light/dark, glory/modesty -- but the “knowing and being” of them, the balancing act, results in neither stasis nor synthesis. The riverbed in which power runs leads back, the patterns of power lead back, the valley where power is contained leads back -- to the forever new, endless, straightforward way. Reversal, recurrence, are the movement, and yet the movement is onward.  
+> **Note** UKLG: The simplicity of Lao Tzu’s language can present an almost impenetrable density of meaning. The reversals and paradoxes in this great poem are the oppositions of the yin and yang -- male/female, light/dark, glory/modesty -- but the “knowing and being” of them, the balancing act, results in neither stasis nor synthesis. The riverbed in which power runs leads back, the patterns of power lead back, the valley where power is contained leads back -- to the forever new, endless, straightforward way. Reversal, recurrence, are the movement, and yet the movement is onward.  
 

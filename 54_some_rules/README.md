@@ -23,5 +23,5 @@ How do I know the world is so?
 By this.  
 
 
-UKLG: I follow Waley’s interpretation of this chapter. It is Tao that plants and keeps; the various kinds of power belong to Tao; and finally in myself I see the Tao of self, and so on.  
+> **Note** UKLG: I follow Waley’s interpretation of this chapter. It is Tao that plants and keeps; the various kinds of power belong to Tao; and finally in myself I see the Tao of self, and so on.  
 

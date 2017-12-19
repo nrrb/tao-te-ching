@@ -38,6 +38,6 @@ for my food
 is the milk of the mother.  
 
 
-UKLG:  The difference between yes and no, good and bad, is something only the “bright” people, the people with the answers, can understand. A poor stupid Taoist can’t make it out.  
+> **Note** UKLG:  The difference between yes and no, good and bad, is something only the “bright” people, the people with the answers, can understand. A poor stupid Taoist can’t make it out.  
     This chapter is full of words like huang (wild, barren; famine), tun (ignorant; chaotic), hun (dull, turbid), men (sad, puzzled, mute), and hu (confused, obscured, vague). They configure chaos, confusion, a “bewilderness” in which the mind wanders without certainties, desolate, silent, awkward. But in that milky, dim strangeness lies the way. It can’t be found in the superficial order imposed by positive and negative opinions, the good/bad, yes/no moralizing that denies fear and ignores mystery.  
 

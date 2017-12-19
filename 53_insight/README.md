@@ -23,5 +23,5 @@ Surely their way
 isn’t the way.  
 
 
-UKLG: So much for capitalism.  
+> **Note** UKLG: So much for capitalism.  
 

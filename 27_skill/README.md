@@ -22,5 +22,5 @@ may be clever, but has gone astray.
 There’s a deep mystery here.  
 
 
-UKLG: The hidden light and the deep mystery seem to be signals, saying “think about this” -- about care for what seems unimportant. In a teacher’s parental care for the insignificant student, and in a society’s respect for mothers, teachers, and other obscure people who educate, there is indeed illumination and a profoundly human mystery. Having replaced instinct with language, society, and culture, we are the only species that depends on teaching and learning. We aren’t human without them. In them is true power. But are they the occupations of the rich and mighty?  
+> **Note** UKLG: The hidden light and the deep mystery seem to be signals, saying “think about this” -- about care for what seems unimportant. In a teacher’s parental care for the insignificant student, and in a society’s respect for mothers, teachers, and other obscure people who educate, there is indeed illumination and a profoundly human mystery. Having replaced instinct with language, society, and culture, we are the only species that depends on teaching and learning. We aren’t human without them. In them is true power. But are they the occupations of the rich and mighty?  
 

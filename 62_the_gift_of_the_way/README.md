@@ -26,5 +26,5 @@ Hide, it will shelter you.
 So it was honored under heaven.  
 
 
-UKLG: I think the line of thought throughout the poe has to do with true reward as opposed to dishonorable gain, true giving as opposed to fake goods.  
+> **Note** UKLG: I think the line of thought throughout the poe has to do with true reward as opposed to dishonorable gain, true giving as opposed to fake goods.  
 

@@ -16,7 +16,7 @@ the soft, the weak prevail
 over the hard, the strong.  
 
 
-UKLG: There is a third stanza in all the texts:  
+> **Note** UKLG: There is a third stanza in all the texts:  
 
 
     Fish should stay underwater:  
