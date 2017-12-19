@@ -7,7 +7,6 @@
         "richquotes@0.0.9",
         "github@2.0.0",
         "codeblock-label",
-        "sectionx",
         "-sharing"
     ],
     "pluginsConfig": {
@@ -16,9 +15,6 @@
         },
         "github": {
             "url": "https://github.com/tothebeat/tao-te-ching"
-        },
-        "sectionx": {
-            "tag": "b"
         }
     }
 }
