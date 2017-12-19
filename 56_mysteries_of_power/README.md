@@ -1,7 +1,7 @@
 # 56 - MYSTERIES OF POWER
 
 
-```
+
 Who knows  
 doesn’t talk.  
 Who talks  
@@ -22,5 +22,5 @@ or by loss.
 You can’t be controlled by praise  
 or by humiliation.  
 Then you have honor under heaven.  
-```
+
 

@@ -1,7 +1,7 @@
 # 1 - TAOING
 
 
-```
+
 The way you can go  
 isn’t the real way.  
 The name you can say  
@@ -22,7 +22,7 @@ but different in name,
 whose identity is mystery.  
 Mystery of all mysteries!  
 The door to the hidden.  
-```
+
 
 UKLG: A satisfactory translation of this chapter is, I believe, perfectly impossible. It contains the book. I think of it as the Aleph, in Borges’s story: if you can see it rightly, it contains everything.  
 

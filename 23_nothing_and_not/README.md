@@ -1,7 +1,7 @@
 # 23 - NOTHING AND NOT
 
 
-```
+
 Nature doesn’t make long speeches.  
 A whirlwind doesn’t last all morning.  
 A cloudburst doesn’t last all day.  
@@ -27,5 +27,5 @@ and when you’re lost you’ll be at home.
 
 To give no trust  
 is to get no trust.  
-```
+
 

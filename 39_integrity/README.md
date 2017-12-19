@@ -1,7 +1,7 @@
 # 39 - INTEGRITY
 
 
-```
+
 Those who of old got to be whole:  
 
 Heaven through its wholeness is pure;  
@@ -29,5 +29,5 @@ A multiplicity of riches
 is poverty.  
 Jade is praised as precious,  
 but its strength is being stone.  
-```
+
 

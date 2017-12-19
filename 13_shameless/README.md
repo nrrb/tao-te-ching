@@ -1,7 +1,7 @@
 # 13 - SHAMELESS
 
 
-```
+
 To be in favor or disgrace  
 is to live in fear.  
 To take the body seriously  
@@ -29,7 +29,7 @@ could be entrusted with the commonwealth,
 and people who treated the body politic  
 as gently as their own body  
 would be worthy to govern the commonwealth.  
-```
+
 
 UKLG: Lao Tzu, a mystic, demystifies political power.  
     Autocracy and oligarchy foster the beliefs that power is gained magically and retained by sacrifice, and that powerful people are genuinely superior to the powerless.  

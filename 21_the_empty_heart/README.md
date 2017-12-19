@@ -1,7 +1,7 @@
 # 21 - THE EMPTY HEART
 
 
-```
+
 The greatest power is the gift  
 of following the Way alone.  
 How the Way does things  
@@ -21,7 +21,7 @@ the beginning of everything.
 How do I know  
 anything about the beginning?  
 By this.  
-```
+
 
 UKLG: Mysticism rises from and returns to the irreducible, unsayable reality of “this.” “This” is the Way. This is the way.  
 

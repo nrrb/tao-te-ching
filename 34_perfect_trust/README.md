@@ -1,7 +1,7 @@
 # 34 - PERFECT TRUST
 
 
-```
+
 The Great Way runs  
 to left, to right,  
 the ten thousand things  
@@ -24,5 +24,5 @@ Call it great.
 So the wise soul  
 without great doings  
 achieves greatness.  
-```
+
 

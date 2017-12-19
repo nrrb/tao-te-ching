@@ -1,7 +1,7 @@
 # 64 - MINDFUL OF LITTLE THINGS
 
 
-```
+
 It’s easy to keep hold of what hasn’t stirred,  
 easy to plan what hasn’t occurred.  
 It’s easy to shatter delicate things,  
@@ -35,5 +35,5 @@ learn not to be learned,
 turn back to what people overlooked.  
 They go along with things as they are,  
 but don’t presume to act.  
-```
+
 

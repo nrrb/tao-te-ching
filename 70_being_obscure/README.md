@@ -1,7 +1,7 @@
 # 70 - BEING OBSCURE
 
 
-```
+
 My words are so easy to understand,  
 so easy to follow,  
 
@@ -16,5 +16,5 @@ In my obscurity
 is my value.  
 That’s why the wise  
 wear their jade under common clothes.  
-```
+
 

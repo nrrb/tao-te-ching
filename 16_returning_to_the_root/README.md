@@ -1,7 +1,7 @@
 # 16 - RETURNING TO THE ROOT
 
 
-```
+
 Be completely empty.  
 Be perfectly serene.  
 The ten thousand things arise together;  
@@ -27,7 +27,7 @@ following the Tao,
 the way that endures forever.  
 The body comes to its ending,  
 but there is nothing to fear.  
-```
+
 
 UKLG: To those who will not admit morality without a deity to validate it, or spirituality of which man is not the measure, the firmness of Lao Tzu’s morality and the sweetness of his spiritual counsel must seem incomprehensible, or illegitimate, or very troubling indeed.  
 

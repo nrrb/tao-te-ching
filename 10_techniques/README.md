@@ -1,7 +1,7 @@
 # 10 - TECHNIQUES
 
 
-```
+
 Can you keep your soul in its body,  
 hold fast to the one,  
 and so learn to be whole?  
@@ -24,7 +24,7 @@ to bear and not to own,
 to act and not lay claim,  
 to lead and not to rule:  
 this is mysterious power.  
-```
+
 
 UKLG: Most of the scholars think this chapter is about meditation, its techniques and fulfillments. The language is profoundly mystical, the images are charged, rich in implications.  
 

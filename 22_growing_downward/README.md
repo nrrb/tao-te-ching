@@ -1,7 +1,7 @@
 # 22 - GROWING DOWNWARD
 
 
-```
+
 Be broken to be whole.  
 Twist to be straight.  
 Be empty to be full.  
@@ -26,5 +26,5 @@ What they used to say in the old days,
 was that mistaken?  
 Truly, to be whole  
 is to return.  
-```
+
 

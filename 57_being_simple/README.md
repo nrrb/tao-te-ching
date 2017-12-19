@@ -1,7 +1,7 @@
 # 57 - BEING SIMPLE
 
 
-```
+
 Run the country by doing what’s expected.  
 Win the war by doing the unexpected.  
 Control the world by doing nothing.  
@@ -22,7 +22,7 @@ I practice inaction, and the people look after themselves.
 I love to be quiet, and the people themselves find justice.  
 I don’t do business, and the people prosper on their own.  
 I don’t have wants, and the people themselves are uncut wood.  
-```
+
 
 UKLG: A strong political statement of the central idea of wu wei, not doing, inaction.  
 My “monstrous” is literally “new.” New is strange, and strange is uncanny. New is bad. Lao Tzu is deeply and firmly against changing things, particularly in the name of progress. He would make an Iowa farmer look flighty. I don’t think he is exactly anti-intellectual, but he considers most uses of the intellect to be pernicious, and all plans for improving things to be disastrous. Yet he’s not a pessimist. No pessimist would say that people are able to look after themselves, be just, and prosper on their own. No anarchist can be a pessimist.  

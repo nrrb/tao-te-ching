@@ -1,7 +1,7 @@
 # 78 - PARADOXES
 
 
-```
+
 Nothing in the world
 is as soft, as weak, as water;
 nothing else can wear away
@@ -19,5 +19,5 @@ by bearing common evils
 you become a lord of the world.
 
 Right words sound wrong.
-```
+
 

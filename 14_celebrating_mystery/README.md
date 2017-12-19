@@ -1,7 +1,7 @@
 # 14 - CELEBRATING MYSTERY
 
 
-```
+
 Look at it: nothing to see.  
 Call it colorless.  
 Listen to it: nothing to hear.  
@@ -29,5 +29,5 @@ Holding fast to the old Way,
 we can live in the present.  
 Mindful of the ancient beginnings,  
 we hold the thread of the Tao.  
-```
+
 

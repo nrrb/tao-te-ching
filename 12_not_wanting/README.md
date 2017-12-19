@@ -1,7 +1,7 @@
 # 12 - NOT WANTING
 
 
-```
+
 The five colors  
 blind our eyes.  
 The five notes  
@@ -19,5 +19,5 @@ watches with the inner
 not the outward eye,  
 letting that go,  
 keeping this.  
-```
+
 

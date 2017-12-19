@@ -1,7 +1,7 @@
 # 31 - AGAINST WAR
 
 
-```
+
 Even the best weapon  
 is an unhappy tool,  
 hateful to living things.  
@@ -22,5 +22,5 @@ It is right that the murder of many people
 be mourned and lamented.  
 It is right that a victor in war  
 be received with funeral ceremonies.  
-```
+
 
