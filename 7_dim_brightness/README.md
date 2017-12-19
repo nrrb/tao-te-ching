@@ -1,7 +1,7 @@
 # 7 - DIM BRIGHTNESS
 
 
-```
+
 Heaven will last,  
 earth will endure.  
 How can they last so long?  
@@ -15,5 +15,5 @@ and setting self aside
 stay centered.  
 Why let the self go?  
 To keep what the soul needs.  
-```
+
 

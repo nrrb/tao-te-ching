@@ -1,7 +1,7 @@
 # 73 - DARING TO DO
 
 
-```
+
 Brave daring leads to death.
 Brave caution leads to life.
 The choice can be the right one
@@ -26,5 +26,5 @@ The net of heaven
 is vast, vast,
 wide-meshed,
 yet missing nothing.
-```
+
 

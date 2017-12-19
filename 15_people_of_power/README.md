@@ -1,7 +1,7 @@
 # 15 - PEOPLE OF POWER
 
 
-```
+
 Once upon a time  
 people who knew the Way  
 were subtle, spiritual, mysterious, penetrating,  
@@ -26,7 +26,7 @@ To follow the Way
 is not to need fulfillment.  
 Unfulfilled, one may live on  
 needing no renewal.  
-```
 
-UKLG: In the first stanza we see the followers of the Way in ancient times or illo tempore, remote and inaccessible; but the second stanza brings them close and alive in a series of marvelous smiles. (I am particularly fond of the polite and quiet houseguests.) The images of the valley and of uncut or uncarved wood will recur again and again.  
+
+> **Note** UKLG: In the first stanza we see the followers of the Way in ancient times or illo tempore, remote and inaccessible; but the second stanza brings them close and alive in a series of marvelous smiles. (I am particularly fond of the polite and quiet houseguests.) The images of the valley and of uncut or uncarved wood will recur again and again.  
 

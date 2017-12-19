@@ -1,7 +1,7 @@
 # 52 - BACK TO THE BEGINNING
 
 
-```
+
 The beginning of everything  
 is the mother of everything.  
 Truly to know the mother  
@@ -25,7 +25,7 @@ Strength knows how to yield.
 Use the way’s light, return to its insight,  
 and so keep from going too far.  
 That’s how to practice what’s forever.  
-```
 
-UKLG: This chapter on the themes of return and centering makes circles within itself and throughout the book returning to phrases from other poems, turning them round the center. A center which is everywhere, a circle whose circumference is infinite...  
+
+> **Note** UKLG: This chapter on the themes of return and centering makes circles within itself and throughout the book returning to phrases from other poems, turning them round the center. A center which is everywhere, a circle whose circumference is infinite...  
 

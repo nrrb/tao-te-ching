@@ -1,7 +1,7 @@
 # 63 - CONSIDER BEGINNINGS
 
 
-```
+
 Do without doing.  
 Act without action.  
 Savor the flavorless.  
@@ -11,7 +11,7 @@ the few as many.
 Meet injury  
 with the power of goodness.  
 
-Study the hard why it’s easy.  
+Study the hard while it’s easy.  
 Do big things while they’re small.  
 The hardest jobs in the world start out easy,  
 the great affairs of the world start small.  
@@ -25,7 +25,7 @@ and taking things too easy makes them hard,
 the wise soul,  
 by treating the easy as hard,  
 doesn’t find anything hard.  
-```
 
-UKLG: Waley says that this charmingly complex chapter plays with two proverbs. “Requite injuries with good deeds” is the first. The word te, here meaning goodness or good deeds, is the same word Lao Tzu uses for the Power of the Way. (“Power is goodness,” he says in chapter 49.) So, having neatly annexed the Golden Rule, he goes on to the proverb about “taking things too lightly” and plays paradox with it.  
+
+> **Note** UKLG: Waley says that this charmingly complex chapter plays with two proverbs. “Requite injuries with good deeds” is the first. The word te, here meaning goodness or good deeds, is the same word Lao Tzu uses for the Power of the Way. (“Power is goodness,” he says in chapter 49.) So, having neatly annexed the Golden Rule, he goes on to the proverb about “taking things too lightly” and plays paradox with it.  
 

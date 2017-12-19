@@ -1,7 +1,7 @@
 # 13 - SHAMELESS
 
 
-```
+
 To be in favor or disgrace  
 is to live in fear.  
 To take the body seriously  
@@ -29,9 +29,9 @@ could be entrusted with the commonwealth,
 and people who treated the body politic  
 as gently as their own body  
 would be worthy to govern the commonwealth.  
-```
 
-UKLG: Lao Tzu, a mystic, demystifies political power.  
+
+> **Note** UKLG: Lao Tzu, a mystic, demystifies political power.  
     Autocracy and oligarchy foster the beliefs that power is gained magically and retained by sacrifice, and that powerful people are genuinely superior to the powerless.  
     Lao Tzu does not see political power as magic. He sees rightful power as earned and wrongful power as usurped. He does not see power as virtue, but as the result of virtue. The democracies are founded on that view. 
     He sees sacrifice of self or others as a corruption of power, and power as available to anybody who follows the Way. This is a radically subversive attitude. No wonder anarchists and Taoists make good friends.  

@@ -1,7 +1,7 @@
 # 41 - ON AND OFF
 
 
-```
+
 Thoughtful people hear about the Way  
 and try hard to follow it.  
 Ordinary people hear about the Way  
@@ -30,5 +30,5 @@ The Way is hidden
 in its namelessness.  
 But only the Way  
 begins, sustains, fulfills.  
-```
+
 

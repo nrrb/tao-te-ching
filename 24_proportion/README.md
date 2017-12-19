@@ -1,7 +1,7 @@
 # 24 - PROPORTION
 
 
-```
+
 You can’t keep standing on tiptoe  
 or walk in leaps and bounds.  
 You can’t shine by showing off  
@@ -15,5 +15,5 @@ or a tumor to the body,
 hateful.  
 The follower of the Way  
 avoids it.  
-```
+
 

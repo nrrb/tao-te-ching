@@ -1,7 +1,7 @@
 # 53 - INSIGHT
 
 
-```
+
 If my mind’s modest,  
 I walk the great way.  
 Arrogance  
@@ -21,7 +21,7 @@ having a lot of things, a lot of money:
 shameless thieves.  
 Surely their way  
 isn’t the way.  
-```
 
-UKLG: So much for capitalism.  
+
+> **Note** UKLG: So much for capitalism.  
 

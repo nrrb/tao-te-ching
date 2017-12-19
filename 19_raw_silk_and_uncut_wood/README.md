@@ -1,7 +1,7 @@
 # 19 - RAW SILK AND UNCUT WOOD
 
 
-```
+
 Stop being holy, forget being prudent,  
 it’ll be a hundred times better for everyone.  
 Stop being altruistic, forget being righteous,  
@@ -17,8 +17,8 @@ Need little,
 want less.  
 Forget the rules.  
 Be untroubled.  
-```
 
-UKLG: This chapter and the two before it may be read as a single movement of thought.  
+
+> **Note** UKLG: This chapter and the two before it may be read as a single movement of thought.  
     “Raw silk” and “uncut wood” are images traditionally associated with the characters su (simple, plain) and p’u (natural, honest).  
     

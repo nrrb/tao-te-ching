@@ -1,7 +1,7 @@
 # 61 - LYING LOW
 
 
-```
+
 The polity of greatness  
 runs downhill like a river to the sea,  
 joining with everything,  
@@ -18,5 +18,5 @@ submitting to a great one, dominate it.
 
 Lie low to be on top,  
 be on top by lying low.  
-```
+
 

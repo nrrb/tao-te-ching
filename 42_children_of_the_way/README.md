@@ -1,7 +1,7 @@
 # 42 - CHILDREN OF THE WAY
 
 
-```
+
 The Way bears one.  
 The one bears two.  
 The two bear three.  
@@ -22,7 +22,7 @@ What others teach, I say too:
 violence and aggression  
 destroy themselves.  
 My teaching rests on that.  
-```
 
-UKLG: Beginning with a pocket cosmology, this chapter demonstrates the “interplay of energy” of yin and yang by showing how low and high, winning and losing, destruction and self-destruction, reverse themselves, each turning into its seeming opposite.  
+
+> **Note** UKLG: Beginning with a pocket cosmology, this chapter demonstrates the “interplay of energy” of yin and yang by showing how low and high, winning and losing, destruction and self-destruction, reverse themselves, each turning into its seeming opposite.  
 

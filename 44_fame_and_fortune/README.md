@@ -1,7 +1,7 @@
 # 44 - FAME AND FORTUNE
 
 
-```
+
 Which is nearer,  
 name or self?  
 Which is dearer,  
@@ -15,5 +15,5 @@ All you hoard will be utterly lost.
 Contentment keeps disgrace away.  
 Restraint keeps you out of danger  
 so you can go on for a long, long time.  
-```
+
 

@@ -1,7 +1,7 @@
 # 50 - LOVE OF LIFE
 
 
-```
+
 To look for life  
 is to find death.  
 The thirteen organs of our living  
@@ -21,5 +21,5 @@ the tiger nowhere to stick its claws,
 the sword nowhere for its point to go.  
 Why? Because there’s nowhere in you  
 for death to enter.  
-```
+
 

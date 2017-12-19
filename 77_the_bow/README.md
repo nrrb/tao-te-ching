@@ -1,7 +1,7 @@
 # 77 - THE BOW
 
 
-```
+
 The Way of heaven
 is like a bow bent to shoot:
 its top end brought down,
@@ -24,5 +24,5 @@ So the wise
 do without claiming,
 achieve without asserting,
 wishing not to show their worth.
-```
+
 

@@ -1,7 +1,7 @@
 # 79 - KEEPING THE CONTRACT
 
 
-```
+
 After a great enmity is settled
 some enmity always remains.
 How to make peace?
@@ -12,7 +12,7 @@ people whose power is hollow insist on their claims.
 
 The Way of heaven plays no favorites.
 It stays with the good.
-```
 
-UKLG: This chapter is equally relevant to private relationships and to political treaties. Its realistic morality is based on a mystical perception of the fullness of the Way.
+
+> **Note** UKLG: This chapter is equally relevant to private relationships and to political treaties. Its realistic morality is based on a mystical perception of the fullness of the Way.
 
