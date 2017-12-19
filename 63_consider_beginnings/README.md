@@ -11,7 +11,7 @@ the few as many.
 Meet injury  
 with the power of goodness.  
 
-Study the hard why it’s easy.  
+Study the hard while it’s easy.  
 Do big things while they’re small.  
 The hardest jobs in the world start out easy,  
 the great affairs of the world start small.  
