@@ -1150,7 +1150,7 @@ rushes and runs
 over what’s hardest in the world.  
 
 The immaterial  
-entres  
+enters  
 the impenetrable.  
 
 So I know the good in not doing.  
