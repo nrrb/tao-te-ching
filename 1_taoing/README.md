@@ -12,7 +12,7 @@ begin in the unnamed:
 name’s the mother  
 of the ten thousand things.  
 
-So the unwanted soul  
+So the unwanting soul  
 sees what’s hidden,  
 and the ever-wanting soul  
 sees only what it wants.  
