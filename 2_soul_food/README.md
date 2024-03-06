@@ -31,7 +31,7 @@ you can’t refuse them.
 
 To bear and not to own;  
 to act and not lay claim;  
-to do the work and let it go.  
+to do the work and let it go:  
 for just letting it go  
 is what makes it stay.  
 
