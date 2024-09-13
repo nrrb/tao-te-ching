@@ -2,27 +2,27 @@
 
 
 
-Let there be a little country without many people.
-Let them have tools that do the work of ten or a hundred,
-and never use them.
-Let them be mindful of death
-and disinclined to long journeys.
-They’d have ships and carriages,
-but no place to go.
-They’d have armor and weapons,
-but no parades.
-Instead of writing,
-they might go back to using knotted cords.
-They’d enjoy eating,
-take pleasure in clothes,
-be happy with their houses,
-devoted to their customs.
+Let there be a little country without many people.  
+Let them have tools that do the work of ten or a hundred,  
+and never use them.  
+Let them be mindful of death  
+and disinclined to long journeys.  
+They’d have ships and carriages,  
+but no place to go.  
+They’d have armor and weapons,  
+but no parades.  
+Instead of writing,  
+they might go back to using knotted cords.  
+They’d enjoy eating,  
+take pleasure in clothes,  
+be happy with their houses,  
+devoted to their customs.  
 
-The next little country might be so close
-the people could hear cocks crowing
-and dogs barking there,
-but they’d get old and die
-without ever having been there.
+The next little country might be so close  
+the people could hear cocks crowing  
+and dogs barking there,  
+but they’d get old and die  
+without ever having been there.  
 
 
 > **Note** UKLG: Waley says this endearing and enduring vision “can be understood in the past, present, or future tense, as the reader desires.” This is always true of the vision of the golden age, the humane society.
