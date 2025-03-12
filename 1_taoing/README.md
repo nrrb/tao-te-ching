@@ -21,7 +21,7 @@ Two things, one origin,
 but different in name,  
 whose identity is mystery.  
 Mystery of all mysteries!  
-The door to the hidden.  
+The door to the hidden.
 
 
 > **Note** UKLG: A satisfactory translation of this chapter is, I believe, perfectly impossible. It contains the book. I think of it as the Aleph, in Borges’s story: if you can see it rightly, it contains everything.  
