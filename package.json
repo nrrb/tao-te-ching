@@ -3,21 +3,28 @@
   "version": "1.0.0",
   "description": "Some English interpretations of Lao Tzu's Tao Te Ching.",
   "main": "index.html",
-  "dependencies": {
-    "gitbook-cli": "^2.3.2"
+  "devDependencies": {
+    "gitbook-plugin-github": "^3.0.0",
+    "gitbook-plugin-richquotes": "^0.0.9",
+    "honkit": "^6.2.2"
   },
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "honkit build . docs",
+    "serve": "honkit serve"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tothebeat/tao-te-ching.git"
+    "url": "git+https://github.com/nrrb/tao-te-ching.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tothebeat/tao-te-ching/issues"
+    "url": "https://github.com/nrrb/tao-te-ching/issues"
   },
-  "homepage": "https://github.com/tothebeat/tao-te-ching#readme"
+  "homepage": "https://github.com/nrrb/tao-te-ching#readme",
+  "overrides": {
+    "gitbook-plugin-richquotes": {
+      "cheerio": "^1.2.0"
+    }
+  }
 }

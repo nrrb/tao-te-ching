@@ -4,9 +4,8 @@
         "fontSize": 16
     },
     "plugins": [
-        "richquotes@0.0.9",
-        "github@2.0.0",
-        "codeblock-label",
+        "richquotes",
+        "github",
         "-sharing"
     ],
     "pluginsConfig": {
@@ -14,7 +13,7 @@
             "default": false
         },
         "github": {
-            "url": "https://github.com/tothebeat/tao-te-ching"
+            "url": "https://github.com/nrrb/tao-te-ching"
         }
     }
 }
