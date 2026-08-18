@@ -1,4 +1,5 @@
 # SUMMARY
+* [About](README.md)
 * [1 - TAOING](1_taoing/README.md)
 * [2 - SOUL FOOD](2_soul_food/README.md)
 * [3 - HUSHING](3_hushing/README.md)

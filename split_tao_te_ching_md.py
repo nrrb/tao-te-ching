@@ -18,6 +18,8 @@ linkname = lambda num, name: '{0} - {1}'.format(num, name)
 summary_line = lambda num, name: '* [{0}]({1}/README.md)'.format(linkname(num, name), foldername(num, name))
 with open('SUMMARY.md', 'w') as f:
     f.write('# SUMMARY\n')
+    # Name the README entry explicitly. Left out, HonKit inserts it as "Introduction".
+    f.write('* [About](README.md)\n')
     for match in chapter_matches:
         f.write(summary_line(match[0], match[1]) + '\n')
 for num, name, text in chapter_matches:
