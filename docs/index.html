@@ -1206,7 +1206,47 @@
                                 <h1 id="lao-tzus-tao-te-ching">Lao Tzu's Tao Te Ching</h1>
 <p>An English Version by Ursula K. Le Guin
 ISBN: 978-1-59030-744-1</p>
-<p><a href="https://stars.medv.io/nrrb/tao-te-ching" target="_blank"><img src="https://stars.medv.io/nrrb/tao-te-ching.svg" alt="Sparkline"></img></a></p>
+<p>Read it at <a href="https://nrrb.github.io/tao-te-ching/" target="_blank">nrrb.github.io/tao-te-ching</a>.</p>
+<h2 id="what-is-here">What is here</h2>
+<p>Ursula K. Le Guin's English version of the Tao Te Ching, all eighty-one chapters,
+set in Markdown and built into a small static website. Her notes are kept with the
+chapters they belong to.</p>
+<p>She called it a rendition, not a translation. She did not read Chinese. She worked
+from Paul Carus's 1898 edition, which printed the Chinese text with each character
+followed by a transliteration and a translation.</p>
+<h2 id="the-texts">The texts</h2>
+<p><code>Ursula K Le Guin.md</code> is the whole of it: eighty-one chapters and her notes.
+Everything else in the book is made from this one file.</p>
+<p><code>Jane English and Gia-fu Feng.md</code> is a second English version, from 1972,
+transcribed as far as chapter 3. It is kept for comparison and is not built into
+the site.</p>
+<h2 id="the-chapters">The chapters</h2>
+<p>Each chapter has a folder named for its number and its title, holding one file:</p>
+<pre><code>1_taoing/README.md
+2_soul_food/README.md
+...
+81_telling_it_true/README.md
+</code></pre><p>The folders are made, not written. <code>split_tao_te_ching_md.py</code> reads
+<code>Ursula K Le Guin.md</code>, splits it on the chapter headings, writes a folder for each
+chapter, and writes <code>SUMMARY.md</code>, the table of contents the site is built from.</p>
+<p>So a fix to the words belongs in <code>Ursula K Le Guin.md</code>, followed by:</p>
+<pre><code>python3 split_tao_te_ching_md.py
+</code></pre><p>Anything typed straight into a chapter folder is lost the next time that runs.</p>
+<h2 id="building-the-site">Building the site</h2>
+<p>The site is built with <a href="https://github.com/honkit/honkit" target="_blank">HonKit</a>, which reads
+<code>book.json</code>, <code>SUMMARY.md</code>, and <code>styles/website.css</code>.</p>
+<pre><code>npm install
+npm run build
+</code></pre><p>The build writes to <code>docs/</code>. GitHub Pages serves <code>docs/</code> from <code>master</code>, so the
+built site is committed alongside the source, and a change to the text is not
+published until the site is built again and the result committed.</p>
+<p>To read it locally instead, with live reloading:</p>
+<pre><code>npm run serve
+</code></pre><p>That one builds to <code>_book/</code>, which git ignores.</p>
+<h2 id="on-the-text">On the text</h2>
+<p>Le Guin's version is under copyright, Shambhala Publications, 1997. What is here
+is a personal copy, kept for reading and for working on the Markdown. It is not a
+license to republish.</p>
 
                                 
                                 </section>
@@ -1246,7 +1286,7 @@ ISBN: 978-1-59030-744-1</p>
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Introduction","level":"1.1","depth":1,"next":{"title":"1 - TAOING","level":"1.2","depth":1,"path":"1_taoing/README.md","ref":"1_taoing/README.md","articles":[]},"dir":"ltr"},"config":{"gitbook":">=3.2.0","theme":"default","variables":{},"plugins":["richquotes","github","-sharing"],"pluginsConfig":{"richquotes":{"default":false},"github":{"url":"https://github.com/nrrb/tao-te-ching"},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":16,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56},"embedFonts":false},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"README.md","mtime":"2026-08-18T20:00:02.675Z","type":"markdown"},"gitbook":{"version":"6.2.2","time":"2026-08-18T20:13:42.828Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Introduction","level":"1.1","depth":1,"next":{"title":"1 - TAOING","level":"1.2","depth":1,"path":"1_taoing/README.md","ref":"1_taoing/README.md","articles":[]},"dir":"ltr"},"config":{"gitbook":">=3.2.0","theme":"default","variables":{},"plugins":["richquotes","github","-sharing"],"pluginsConfig":{"richquotes":{"default":false},"github":{"url":"https://github.com/nrrb/tao-te-ching"},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":16,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56},"embedFonts":false},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"README.md","mtime":"2026-08-18T20:26:41.615Z","type":"markdown"},"gitbook":{"version":"6.2.2","time":"2026-08-18T20:34:08.689Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>

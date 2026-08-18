@@ -1,4 +1,4 @@
-# Build output — must never be treated as book content.
+# Build output. Must never be treated as book content.
 docs
 _book
 node_modules
@@ -13,3 +13,4 @@ package-lock.json
 .bookignore
 split_tao_te_ching_md.py
 Untitled.ipynb
+build-check
