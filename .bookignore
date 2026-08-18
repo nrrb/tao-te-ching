@@ -1,0 +1,15 @@
+# Build output — must never be treated as book content.
+docs
+_book
+node_modules
+
+# Repo tooling. HonKit copies unrecognized root files into the build output;
+# without this, package.json and package-lock.json are duplicated into docs/
+# and Dependabot reports every dependency alert a second time.
+package.json
+package-lock.json
+.github
+.gitignore
+.bookignore
+split_tao_te_ching_md.py
+Untitled.ipynb
